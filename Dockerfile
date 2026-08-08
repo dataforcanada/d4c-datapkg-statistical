@@ -40,7 +40,9 @@ USER ${USERNAME}
 # Create virtual environment and install Python packages
 RUN uv venv ~/.venv \
     && cd ~ \
-    && uv pip install 'geopandas[all]' duckdb psycopg2-binary jupyterlab lonboard click stats-can openpyxl ordered-set buckaroo jenkspy 'polars[all]' folium-pmtiles
+    && uv pip install 'geopandas[all]' duckdb psycopg2-binary jupyterlab lonboard geoparquet-io obstore async-pmtiles click stats-can openpyxl ordered-set buckaroo jenkspy 'polars[all]' folium-pmtiles tabulate
+
+RUN uv tool install portolan-cli
 
 # Bash Kernel
 RUN cd ~ \
