@@ -1,2 +1,2 @@
 # July 2025
-https://data-01.dataforcanada.org/archive/statistics_canada/national_address_register/2025-07/202507.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/national_address_register/202507.zip
