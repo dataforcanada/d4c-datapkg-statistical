@@ -1,2 +1,2 @@
 # 2021. Here is the reference guide https://web.archive.org/web/20250413152017/https://www150.statcan.gc.ca/n1/pub/98-26-0003/982600032021001-eng.htm
-https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/dguid-idugd/files-fichiers/2021_98260004.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/dissemination_geographies_relationship_file/2021_98260004.zip
