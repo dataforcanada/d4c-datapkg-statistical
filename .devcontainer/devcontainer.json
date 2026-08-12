@@ -15,7 +15,8 @@
         "ms-python.python",
         "ms-toolsai.jupyter",
         "vsls-contrib.gistfs",
-        "vscode-icons-team.vscode-icons"
+        "vscode-icons-team.vscode-icons",
+        "rooveterinaryinc.roo-cline"
       ],
       "settings": {
         "python.pythonPath": "/home/ubuntu/.venv/bin/python",
