@@ -1,4 +1,4 @@
-name: process-statcan-data
+name: d4c-datapkg-statistical
 
 services:
   devcontainer:

@@ -1,5 +1,5 @@
 {
-  "name": "process-statcan-data",
+  "name": "d4c-datapkg-statistical",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "devcontainer",
   "workspaceFolder": "/workspace",
@@ -16,7 +16,7 @@
         "ms-toolsai.jupyter",
         "vsls-contrib.gistfs",
         "vscode-icons-team.vscode-icons",
-        "rooveterinaryinc.roo-cline"
+        "ZooCodeOrganization.zoo-code"
       ],
       "settings": {
         "python.pythonPath": "/home/ubuntu/.venv/bin/python",
