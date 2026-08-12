@@ -11,7 +11,7 @@ echo "Downloading 2021 hydro"
 aria2c -x16 -i "${SCRIPT_DIR}/hydro/hydro_2021.txt" --dir=${INPUT_FOLDER}/2021 --auto-file-renaming=false
 echo "Downloading 2016 hydro"
 aria2c -x16 -i "${SCRIPT_DIR}/hydro/hydro_2016.txt" --dir=${INPUT_FOLDER}/2016 --auto-file-renaming=false
-echo "Downloading 2011 boundaries"
+echo "Downloading 2011 hydro"
 aria2c -x16 -i "${SCRIPT_DIR}/hydro/hydro_2011.txt" --dir=${INPUT_FOLDER}/2011 --auto-file-renaming=false
-echo "Downloading 2006 boundaries"
+echo "Downloading 2006 hydro"
 aria2c -x16 -i "${SCRIPT_DIR}/hydro/hydro_2006.txt" --dir=${INPUT_FOLDER}/2006 --auto-file-renaming=false
