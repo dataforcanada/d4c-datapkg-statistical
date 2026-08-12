@@ -1,2 +1,2 @@
 # 2023
-https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/national_address_register/2023.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/national_address_register/2023/2023.zip

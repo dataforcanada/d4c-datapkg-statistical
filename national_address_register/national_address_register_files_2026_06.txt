@@ -1,2 +1,2 @@
 # June 2026
-https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/national_address_register/202606.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/national_address_register/2026-06/202606.zip

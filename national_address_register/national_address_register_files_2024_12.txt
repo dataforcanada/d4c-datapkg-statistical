@@ -1,2 +1,2 @@
 # December 2024
-https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/national_address_register/202412.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/national_address_register/2024-12/202412.zip

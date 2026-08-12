@@ -1,2 +1,2 @@
 # 2022
-https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/national_address_register/2022.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/national_address_register/2022/2022.zip
