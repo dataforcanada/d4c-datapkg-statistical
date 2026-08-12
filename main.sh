@@ -29,10 +29,10 @@ boundaries/load.sh
 boundaries/process.sh
 #### 4.0 Road Network Files ####
 ## 4.1 Download Road Network Files ##
-road_network_files/download.sh
+road_network_file/download.sh
 ## 4.2 Load Road Network Files to PostgreSQL ##
-road_network_files/load.sh
-road_network_files/process.sh
+road_network_file/load.sh
+road_network_file/process.sh
 #### 5.0 GeoSuite ####
 ## 5.1 Download GeoSuite Files ##
 geosuite/download.sh
