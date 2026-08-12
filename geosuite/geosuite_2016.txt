@@ -1,0 +1,2 @@
+# 2016. Here is the reference guide https://web.archive.org/web/20250115043056/https://www150.statcan.gc.ca/n1/pub/92-150-g/92-150-g2016002-eng.htm
+https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/geosuite/2016/GeoSuite_2016_92-150_XBB_eng.zip

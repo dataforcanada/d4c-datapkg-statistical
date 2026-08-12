@@ -1,0 +1,2 @@
+# 2006. Here is the reference guide 
+https://data.source.coop/dataforcanada/d4c-datapkg-statistical/archive/statcan/geosuite/2006/2006_92-150_XBB_eng.zip
