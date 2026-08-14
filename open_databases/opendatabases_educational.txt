@@ -1,0 +1,7 @@
+# https://web.archive.org/web/20251114214413/https://www150.statcan.gc.ca/n1/pub/37-26-0001/372600012022001-eng.htm
+
+# Version 2.1
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/educational/ODEF_v2.1.zip
+
+# Version 3.0
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/educational/ODEF_v3.0.zip

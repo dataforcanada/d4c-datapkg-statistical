@@ -1,0 +1,29 @@
+# https://web.archive.org/web/20260313042557/https://www150.statcan.gc.ca/n1/pub/34-26-0001/342600012018001-eng.htm
+
+# Version 2.0
+# Looks like the version 2 links are now dead
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_Alberta.zip?st=0J_AsIyy
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_BritishColumbia.zip
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_NewBrunswick.zip?st=k35-Ygwr
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_NorthwestTerritories.zip?st=SXozU436
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_NovaScotia.zip
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_Ontario.zip
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_Quebec.zip
+https://www150.statcan.gc.ca/n1/en/pub/34-26-0001/2018001/ODB_v2_Saskatchewan.zip
+
+# Version 3.0
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_NL.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_PE.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_NS.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_NB.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_QC_1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_QC_2.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_ON_1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_ON_2.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_ON_3.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_MB.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_SK.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_AB.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_BC.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_YT.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/buildings/ODB_v3_NT.zip

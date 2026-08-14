@@ -1,0 +1,11 @@
+# https://web.archive.org/web/20260426164254/https://www.statcan.gc.ca/en/lode/databases/oda
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_AB_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_BC_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_MB_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_NB_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_NT_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_NS_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_ON_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_PE_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_QC_v1.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/addresses/ODA_SK_v1.zip

@@ -53,3 +53,6 @@ census_of_agriculture/process.sh
 national_address_register/download.sh
 ## 8.2 Load National Address Register ##
 national_address_register/process.sh
+#### 9.0 Open Databases ####
+## 9.1 Download Open Databases ##
+open_databases/download.sh

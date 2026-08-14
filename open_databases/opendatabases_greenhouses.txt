@@ -1,0 +1,7 @@
+# https://web.archive.org/web/20260417003905/https://www150.statcan.gc.ca/n1/pub/32-26-0005/322600052023001-eng.htm
+
+# Version 1.0
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/greenhouses/ODG_V1-eng.zip
+
+# Version 2.0
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/greenhouses/ODG_V2-eng.zip

@@ -1,0 +1,12 @@
+# https://web.archive.org/web/20260120190207/https://www150.statcan.gc.ca/n1/pub/34-26-0003/342600032023001-eng.htm
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_electric_grid.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_low_carbon.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_oil_gas.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_airports.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_bridges_tunnels.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_ports_marinas.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_railways.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_potable_water.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_solid_waste.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_telecom.zip
+https://data.source.coop/dataforcanada/d4c-datapkg-foundation/archive/statcan/open_databases/infrastructure/ODI_v2_wastewater_stormwater.zip
